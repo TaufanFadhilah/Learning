@@ -14,7 +14,7 @@
         <th>Post Title</th>
         <th>Post Body</th>
         <th class="col-md-2">Actions</th>
-      </tr>
+      </tr>	
     </thead>
     <tbody>
       <tr v-for="(post, index) in filteredPosts">
